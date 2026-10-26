@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "mccca"]
 	path = mccca
-	url = https://github.com/cran/mccca
+	url = https://github.com/mtakagishi0/mccca
